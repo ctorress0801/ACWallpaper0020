@@ -56,7 +56,7 @@ public class GlobalManager : MonoBehaviour
     [Range(30, 100)]
     public float bpmMin = 60;//Min BPM
     [Range(120, 250)]
-    public float bpmMax = 180;//Max BPM
+    public float bpmMax = 140;//Max BPM
     [Range(2, 50)]
     public int bpmHSize = 10;//BPM History Size/Buffer Size
     [Range(0.5f, 4)]
